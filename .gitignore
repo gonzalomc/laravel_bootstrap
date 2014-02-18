@@ -1,0 +1,11 @@
+# Created by http://www.gitignore.io
+
+#!! ERROR: lara is undefined. Use list command to see defined gitignore types !!#
+
+### Laravel ###
+/bootstrap/compiled.php
+/vendor
+.env.local.php
+.env.php
+composer.phar
+composer.lock
